@@ -1,0 +1,16 @@
+,year,quarter,health_authority,hospital,procedure,waiting,completed,wait_time_50,wait_time_90,Y_Q
+71997,2018,Q1,Northern,All Facilities,All Procedures,4553,4259,7.0,27.4,18_Q1
+73980,2018,Q2,Northern,All Facilities,All Procedures,4608,3517,7.3,23.3,18_Q2
+75946,2018,Q3,Northern,All Facilities,All Procedures,4491,4012,6.4,25.7,18_Q3
+77950,2018,Q4,Northern,All Facilities,All Procedures,4342,3891,7.1,25.7,18_Q4
+79971,2019,Q1,Northern,All Facilities,All Procedures,4495,4103,6.9,28.4,19_Q1
+81949,2019,Q2,Northern,All Facilities,All Procedures,4768,3637,7.3,26.9,19_Q2
+83914,2019,Q3,Northern,All Facilities,All Procedures,4407,4217,7.9,30.6,19_Q3
+85876,2019,Q4,Northern,All Facilities,All Procedures,4418,3554,7.1,24.0,19_Q4
+87715,2020,Q1,Northern,All Facilities,All Procedures,4521,2077,9.9,27.9,20_Q1
+89512,2020,Q2,Northern,All Facilities,All Procedures,4108,3823,7.3,33.4,20_Q2
+91525,2020,Q3,Northern,All Facilities,All Procedures,4481,3817,6.1,30.6,20_Q3
+93542,2020,Q4,Northern,All Facilities,All Procedures,5479,3317,6.1,19.9,20_Q4
+97220,2021,Q1,Northern,All Facilities,All Procedures,5431,4107,7.9,27.3,21_Q1
+99207,2021,Q2,Northern,All Facilities,All Procedures,5407,3408,7.9,28.0,21_Q2
+101178,2021,Q3,Northern,All Facilities,All Procedures,6171,2742,6.9,23.1,21_Q3

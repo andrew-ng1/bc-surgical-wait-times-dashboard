@@ -1,0 +1,16 @@
+,year,quarter,health_authority,hospital,procedure,waiting,completed,wait_time_50,wait_time_90,Y_Q
+71138,2018,Q1,Fraser,All Facilities,All Procedures,24989,17680,8.0,32.1,18_Q1
+73162,2018,Q2,Fraser,All Facilities,All Procedures,24900,15119,8.0,32.0,18_Q2
+75121,2018,Q3,Fraser,All Facilities,All Procedures,25915,16899,7.7,32.0,18_Q3
+77106,2018,Q4,Fraser,All Facilities,All Procedures,26255,17019,8.0,33.1,18_Q4
+79107,2019,Q1,Fraser,All Facilities,All Procedures,26772,17634,7.9,31.9,19_Q1
+81137,2019,Q2,Fraser,All Facilities,All Procedures,27699,15732,8.1,33.0,19_Q2
+83079,2019,Q3,Fraser,All Facilities,All Procedures,28412,17205,8.0,34.6,19_Q3
+85067,2019,Q4,Fraser,All Facilities,All Procedures,26926,15925,7.9,34.4,19_Q4
+86994,2020,Q1,Fraser,All Facilities,All Procedures,27235,9905,11.6,37.6,20_Q1
+88680,2020,Q2,Fraser,All Facilities,All Procedures,25832,16340,7.6,43.0,20_Q2
+90655,2020,Q3,Fraser,All Facilities,All Procedures,25604,17187,6.0,42.1,20_Q3
+92679,2020,Q4,Fraser,All Facilities,All Procedures,24438,18705,6.0,36.9,20_Q4
+96360,2021,Q1,Fraser,All Facilities,All Procedures,25444,17516,5.9,31.4,21_Q1
+98378,2021,Q2,Fraser,All Facilities,All Procedures,23961,17090,6.3,31.2,21_Q2
+100336,2021,Q3,Fraser,All Facilities,All Procedures,22589,17489,5.7,30.3,21_Q3

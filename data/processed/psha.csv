@@ -1,0 +1,719 @@
+,year,quarter,health_authority,hospital,procedure,waiting,completed,wait_time_50,wait_time_90,Y_Q
+72260,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,14,76,2.4,6.4,18_Q1
+72262,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,3,11,1.9,4.9,18_Q1
+72263,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,5,36,3.1,5.9,18_Q1
+72264,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,14,37,3.7,11.3,18_Q1
+72265,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,3,7,2.9,3.5,18_Q1
+72266,2018,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,13,5.0,7.0,18_Q1
+72267,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,35,34,3.7,44.9,18_Q1
+72269,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,10,8,9.7,25.0,18_Q1
+72270,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,7,1.4,6.5,18_Q1
+72271,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,8,23,4.1,9.7,18_Q1
+72272,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,10,9,9.9,22.2,18_Q1
+72273,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,172,314,3.9,14.1,18_Q1
+72274,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,22,30,3.4,15.3,18_Q1
+72275,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,20,28,7.9,21.5,18_Q1
+72276,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,3,5,12.0,24.4,18_Q1
+72277,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,10,10,4.2,12.3,18_Q1
+72278,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,12,21,5.1,11.1,18_Q1
+72279,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,66,57,7.0,20.0,18_Q1
+72280,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,15,8,1.2,11.0,18_Q1
+72281,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,8,14,3.4,11.0,18_Q1
+72282,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,7,3.0,11.7,18_Q1
+72283,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,5,3.4,5.5,18_Q1
+72284,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,12,16,7.7,17.1,18_Q1
+72285,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,183,91,12.4,30.4,18_Q1
+72286,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,43,56,5.0,11.9,18_Q1
+72287,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,36,19,11.3,20.1,18_Q1
+72288,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,31,20,9.1,49.5,18_Q1
+72289,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,237,141,13.9,34.4,18_Q1
+72290,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,25,11,9.0,15.1,18_Q1
+72291,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,164,146,5.9,26.4,18_Q1
+72292,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,163,113,8.0,37.9,18_Q1
+72293,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Rectal Surgery,3,9,4.1,7.3,18_Q1
+72294,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,16,16,1.7,2.6,18_Q1
+72295,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,87,52,15.2,46.7,18_Q1
+72296,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,116,39,3.7,15.8,18_Q1
+72297,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,20,9,1.7,14.9,18_Q1
+72298,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,64,64,11.3,26.4,18_Q1
+72299,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,22,16,15.5,76.9,18_Q1
+72300,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,9,25,3.6,20.7,18_Q1
+72301,2018,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,7,1.0,4.0,18_Q1
+72302,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,18,74,0.8,4.4,18_Q1
+72304,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,3,6,2.1,6.0,18_Q1
+72305,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,47,115,1.4,9.1,18_Q1
+72306,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,59,54,7.9,20.1,18_Q1
+72307,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,13,22,6.0,16.7,18_Q1
+72308,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,285,399,3.1,11.5,18_Q1
+72309,2018,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,8,5,6.0,16.1,18_Q1
+74235,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,17,62,2.1,6.4,18_Q2
+74237,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,3,5,1.1,158.2,18_Q2
+74238,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,11,29,2.7,5.6,18_Q2
+74239,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,9,30,4.9,15.4,18_Q2
+74240,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,3,8,1.6,2.7,18_Q2
+74241,2018,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,10,3.1,6.6,18_Q2
+74242,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,28,31,3.1,20.3,18_Q2
+74244,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,8,21,0.9,7.3,18_Q2
+74245,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,11,0.3,1.0,18_Q2
+74246,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,5,2.7,6.8,18_Q2
+74247,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,7,1.6,5.5,18_Q2
+74248,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,7,20,0.9,7.2,18_Q2
+74249,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,9,16,5.3,15.6,18_Q2
+74250,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,180,254,6.0,13.3,18_Q2
+74251,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,18,32,2.2,5.9,18_Q2
+74252,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,18,28,3.1,20.4,18_Q2
+74253,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,3,15,1.3,6.2,18_Q2
+74254,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,5,20,0.7,24.7,18_Q2
+74255,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,11,22,1.9,10.6,18_Q2
+74256,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,53,87,5.7,24.4,18_Q2
+74257,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,13,11,1.0,15.0,18_Q2
+74258,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,8,7,5.7,8.5,18_Q2
+74259,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,5,0.9,8.7,18_Q2
+74260,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,5,2.0,10.5,18_Q2
+74261,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,13,12,3.0,15.2,18_Q2
+74262,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,155,98,15.4,40.7,18_Q2
+74263,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,32,44,4.4,14.3,18_Q2
+74264,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,26,21,7.4,14.4,18_Q2
+74265,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,26,12,11.4,47.0,18_Q2
+74266,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,233,114,12.9,34.9,18_Q2
+74267,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,22,14,16.9,41.3,18_Q2
+74268,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,151,125,6.3,27.2,18_Q2
+74269,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,163,102,12.9,42.3,18_Q2
+74270,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Sinus Surgery,3,7,6.6,12.9,18_Q2
+74271,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,14,27,1.7,1.7,18_Q2
+74272,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,71,46,17.6,45.3,18_Q2
+74273,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,106,48,6.4,25.1,18_Q2
+74274,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,20,8,17.9,62.7,18_Q2
+74275,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,37,60,13.0,24.6,18_Q2
+74276,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,21,17,8.0,31.8,18_Q2
+74277,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,7,33,0.6,8.1,18_Q2
+74278,2018,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,16,0.3,1.6,18_Q2
+74279,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,29,73,1.0,6.0,18_Q2
+74281,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,3,5,9.0,15.3,18_Q2
+74282,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,71,115,0.9,9.9,18_Q2
+74283,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,71,43,7.1,14.3,18_Q2
+74284,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,12,12,5.9,11.6,18_Q2
+74285,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,343,423,3.4,9.9,18_Q2
+74286,2018,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,11,9,5.6,28.5,18_Q2
+76214,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,8,73,1.0,5.9,18_Q3
+76216,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,3,8,1.9,3.2,18_Q3
+76217,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,11,48,2.2,4.7,18_Q3
+76218,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,D&C and Related Surgery,3,6,2.2,4.1,18_Q3
+76219,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,5,6,3.6,8.8,18_Q3
+76220,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,3,31,2.4,4.3,18_Q3
+76221,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,10,3.8,6.2,18_Q3
+76222,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,33,37,1.9,10.3,18_Q3
+76224,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,6,16,0.7,26.4,18_Q3
+76225,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,14,0.6,2.2,18_Q3
+76226,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,5,4.4,5.5,18_Q3
+76227,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,5,17,2.6,5.5,18_Q3
+76228,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,9,22,4.3,13.1,18_Q3
+76229,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,191,285,5.1,12.8,18_Q3
+76230,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,32,42,1.4,10.3,18_Q3
+76231,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,18,25,4.3,13.7,18_Q3
+76232,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,5,13,0.6,6.4,18_Q3
+76233,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,3,21,0.4,3.1,18_Q3
+76234,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,3,28,2.1,5.5,18_Q3
+76235,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,52,66,3.1,10.9,18_Q3
+76236,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,15,15,3.1,41.5,18_Q3
+76237,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,14,8,0.9,13.5,18_Q3
+76238,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,5,6.4,12.8,18_Q3
+76239,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,10,0.9,2.9,18_Q3
+76240,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,15,18,5.9,18.9,18_Q3
+76241,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,92,113,12.7,26.5,18_Q3
+76242,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,36,69,2.1,12.2,18_Q3
+76243,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Nasal Surgery,3,6,3.1,22.6,18_Q3
+76244,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,25,20,11.6,28.7,18_Q3
+76245,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,19,17,8.4,52.6,18_Q3
+76246,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,186,136,16.4,29.9,18_Q3
+76247,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,21,8,9.4,16.8,18_Q3
+76248,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,141,148,3.2,27.7,18_Q3
+76249,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,107,136,7.7,26.3,18_Q3
+76250,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,13,32,1.6,26.2,18_Q3
+76251,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,54,54,8.1,39.2,18_Q3
+76252,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,90,43,4.1,32.7,18_Q3
+76253,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,22,8,6.1,21.5,18_Q3
+76254,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,48,41,4.3,17.3,18_Q3
+76255,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,16,21,3.4,23.9,18_Q3
+76256,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,14,36,0.8,3.6,18_Q3
+76257,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,18,0.4,4.0,18_Q3
+76258,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,37,94,2.6,8.9,18_Q3
+76260,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,78,211,0.9,7.4,18_Q3
+76261,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,74,55,11.6,27.9,18_Q3
+76262,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,7,8,8.6,16.3,18_Q3
+76263,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,343,490,3.9,12.6,18_Q3
+76264,2018,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,11,9,5.6,11.9,18_Q3
+78212,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,24,68,3.1,7.0,18_Q4
+78214,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,3,7,1.1,2.2,18_Q4
+78215,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,10,45,2.1,3.8,18_Q4
+78216,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,D&C and Related Surgery,3,5,5.4,9.2,18_Q4
+78217,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,3,9,5.0,9.0,18_Q4
+78218,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,5,35,1.6,5.3,18_Q4
+78219,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Mastectomy,3,5,1.9,2.3,18_Q4
+78220,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,9,6.4,9.5,18_Q4
+78221,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,28,48,1.8,19.7,18_Q4
+78223,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,18,0.8,8.9,18_Q4
+78224,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,16,0.9,4.1,18_Q4
+78225,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,7,24,1.0,5.1,18_Q4
+78226,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,8,11,6.4,12.6,18_Q4
+78227,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,125,359,5.0,15.9,18_Q4
+78228,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,28,50,2.4,10.4,18_Q4
+78229,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Gynecomastia,10,5,23.0,40.6,18_Q4
+78230,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,18,32,3.0,21.7,18_Q4
+78231,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,5,15,0.9,6.7,18_Q4
+78232,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,3,16,0.4,1.0,18_Q4
+78233,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,8,18,1.0,4.8,18_Q4
+78234,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,45,74,3.1,22.5,18_Q4
+78235,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,17,14,3.5,19.1,18_Q4
+78236,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,15,21,1.0,4.4,18_Q4
+78237,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,8,0.8,4.2,18_Q4
+78238,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,9,22,2.6,10.2,18_Q4
+78239,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,57,141,4.9,31.4,18_Q4
+78240,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,21,78,2.1,9.7,18_Q4
+78241,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Nasal Surgery,3,6,6.1,25.3,18_Q4
+78242,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Nerve Surgery,3,6,9.3,16.2,18_Q4
+78243,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,18,21,6.0,21.1,18_Q4
+78244,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,21,10,2.1,34.2,18_Q4
+78245,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,221,142,11.6,29.4,18_Q4
+78246,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,22,17,5.4,36.6,18_Q4
+78247,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,163,129,2.6,33.5,18_Q4
+78248,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,68,137,5.1,37.3,18_Q4
+78249,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,3,31,1.6,5.4,18_Q4
+78250,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,45,66,4.6,30.1,18_Q4
+78251,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,128,42,3.1,47.7,18_Q4
+78252,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,23,12,2.4,46.3,18_Q4
+78253,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,32,65,5.6,14.6,18_Q4
+78254,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,15,15,7.3,19.6,18_Q4
+78255,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,10,43,0.7,4.4,18_Q4
+78256,2018,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,7,0.3,1.6,18_Q4
+78257,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,41,93,1.4,6.6,18_Q4
+78259,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,7,5,3.4,9.5,18_Q4
+78260,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,72,201,1.1,10.2,18_Q4
+78261,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,75,62,9.6,16.1,18_Q4
+78262,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,10,9,6.7,14.5,18_Q4
+78263,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,3,5,3.9,5.5,18_Q4
+78264,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,349,482,4.6,14.1,18_Q4
+78265,2018,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,16,13,6.4,22.3,18_Q4
+80238,2019,Q1,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,22,78,2.9,5.9,19_Q1
+80240,2019,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,13,46,2.4,4.9,19_Q1
+80241,2019,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,11,32,4.0,6.3,19_Q1
+80242,2019,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,3,10,2.3,4.2,19_Q1
+80243,2019,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,10,6.2,9.3,19_Q1
+80244,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,22,37,1.9,14.2,19_Q1
+80246,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,15,0.9,4.7,19_Q1
+80247,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,7,0.7,10.7,19_Q1
+80248,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,8,25,3.1,7.5,19_Q1
+80249,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,8,18,2.0,13.9,19_Q1
+80250,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,181,308,4.4,12.0,19_Q1
+80251,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,26,30,4.0,16.8,19_Q1
+80252,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,23,26,4.4,10.4,19_Q1
+80253,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,15,13,0.3,2.0,19_Q1
+80254,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,23,25,1.6,8.7,19_Q1
+80255,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,48,77,6.1,15.5,19_Q1
+80256,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,20,13,15.6,23.1,19_Q1
+80257,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,21,8,2.6,14.2,19_Q1
+80258,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,5,0.7,15.5,19_Q1
+80259,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,13,12,3.9,9.0,19_Q1
+80260,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,76,92,5.5,15.4,19_Q1
+80261,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,34,49,5.6,12.2,19_Q1
+80262,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Nerve Surgery,3,5,1.1,16.6,19_Q1
+80263,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,22,26,4.9,24.2,19_Q1
+80264,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,21,12,14.0,58.7,19_Q1
+80265,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,220,165,13.1,26.9,19_Q1
+80266,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,26,8,5.6,9.1,19_Q1
+80267,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,193,144,4.1,20.9,19_Q1
+80268,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,85,107,5.0,16.3,19_Q1
+80269,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Rectal Surgery,3,5,3.9,8.3,19_Q1
+80270,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,52,18,2.5,3.7,19_Q1
+80271,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,57,54,4.9,16.5,19_Q1
+80272,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,147,44,4.3,52.6,19_Q1
+80273,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,21,5,21.0,37.1,19_Q1
+80274,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,39,45,7.0,14.2,19_Q1
+80275,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,33,20,6.8,10.3,19_Q1
+80276,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,17,43,1.0,6.0,19_Q1
+80277,2019,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,6,23,1.0,4.0,19_Q1
+80278,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,48,93,2.0,10.3,19_Q1
+80280,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,3,8,3.9,8.8,19_Q1
+80281,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,86,187,1.0,11.5,19_Q1
+80282,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,89,63,6.6,17.5,19_Q1
+80283,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,6,14,7.3,16.8,19_Q1
+80284,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,407,517,4.9,13.0,19_Q1
+80285,2019,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,14,12,9.3,22.2,19_Q1
+82203,2019,Q2,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,14,85,1.1,6.9,19_Q2
+82205,2019,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,11,34,3.1,6.7,19_Q2
+82206,2019,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,11,30,4.4,9.2,19_Q2
+82207,2019,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,9,2.6,5.6,19_Q2
+82208,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,16,33,2.7,16.4,19_Q2
+82210,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,14,0.6,3.1,19_Q2
+82211,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,5,5.9,13.0,19_Q2
+82212,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,7,0.4,2.1,19_Q2
+82213,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,6,3.3,7.4,19_Q2
+82214,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,9,2.3,4.5,19_Q2
+82215,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,6,26,2.9,5.1,19_Q2
+82216,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,14,12,6.9,14.6,19_Q2
+82217,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,164,351,4.3,12.3,19_Q2
+82218,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,28,45,5.0,14.2,19_Q2
+82219,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,22,33,6.4,15.0,19_Q2
+82220,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,7,5,5.9,12.9,19_Q2
+82221,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,12,26,0.8,10.6,19_Q2
+82222,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,16,33,2.1,10.8,19_Q2
+82223,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,46,73,5.4,13.7,19_Q2
+82224,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,10,17,10.1,18.9,19_Q2
+82225,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,19,9,7.4,34.5,19_Q2
+82226,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,15,16,3.0,8.8,19_Q2
+82227,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,62,103,5.9,16.0,19_Q2
+82228,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,39,53,5.6,12.9,19_Q2
+82229,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,24,23,5.9,23.9,19_Q2
+82230,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,23,16,8.8,22.9,19_Q2
+82231,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,202,131,15.6,32.7,19_Q2
+82232,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,18,18,15.0,38.0,19_Q2
+82233,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,175,129,10.0,31.5,19_Q2
+82234,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,58,129,5.9,20.5,19_Q2
+82235,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,40,33,9.1,18.1,19_Q2
+82236,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,35,54,8.2,24.2,19_Q2
+82237,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,148,45,13.0,48.4,19_Q2
+82238,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,21,11,26.1,52.6,19_Q2
+82239,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,41,43,6.7,20.1,19_Q2
+82240,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,32,20,9.9,23.4,19_Q2
+82241,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,18,47,2.4,8.1,19_Q2
+82242,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,5,12,0.7,3.8,19_Q2
+82243,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,51,88,2.8,12.1,19_Q2
+82245,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,81,196,0.9,13.8,19_Q2
+82246,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,111,56,9.6,25.0,19_Q2
+82247,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,12,6,10.4,21.4,19_Q2
+82248,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,3,7,2.4,20.5,19_Q2
+82249,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,407,492,5.4,13.9,19_Q2
+82250,2019,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,12,7,7.6,19.3,19_Q2
+84171,2019,Q3,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,12,72,1.9,6.0,19_Q3
+84173,2019,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,13,37,3.3,7.1,19_Q3
+84174,2019,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,7,24,3.4,6.1,19_Q3
+84175,2019,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,10,3.1,7.1,19_Q3
+84176,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,28,25,2.7,6.4,19_Q3
+84178,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,18,0.9,2.3,19_Q3
+84179,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,5,4.4,9.7,19_Q3
+84180,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,7,0.4,3.5,19_Q3
+84181,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,7,4.1,9.2,19_Q3
+84182,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,10,20,4.4,7.7,19_Q3
+84183,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,24,17,5.4,20.7,19_Q3
+84184,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,198,313,4.3,11.1,19_Q3
+84185,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,39,39,3.4,11.4,19_Q3
+84186,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,16,19,7.1,14.7,19_Q3
+84187,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,5,8,6.2,10.5,19_Q3
+84188,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,3,20,1.4,20.4,19_Q3
+84189,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,8,33,3.0,9.1,19_Q3
+84190,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,59,76,4.6,12.5,19_Q3
+84191,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,18,6,10.1,15.4,19_Q3
+84192,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,17,8,20.1,37.2,19_Q3
+84193,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,6,18,9.6,33.1,19_Q3
+84194,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,109,100,5.9,13.0,19_Q3
+84195,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,47,70,5.0,10.1,19_Q3
+84196,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,26,23,9.0,27.9,19_Q3
+84197,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,28,10,9.8,23.7,19_Q3
+84198,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,213,156,11.8,23.5,19_Q3
+84199,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,19,9,16.1,40.0,19_Q3
+84200,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,176,125,9.0,26.1,19_Q3
+84201,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,91,101,4.0,12.3,19_Q3
+84202,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,45,19,16.3,23.2,19_Q3
+84203,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,51,36,7.9,32.7,19_Q3
+84204,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,151,40,24.1,62.2,19_Q3
+84205,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,17,9,8.7,54.6,19_Q3
+84206,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,62,42,6.8,12.8,19_Q3
+84207,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,34,19,11.1,26.2,19_Q3
+84208,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,18,43,0.9,10.5,19_Q3
+84209,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,53,103,2.0,9.1,19_Q3
+84211,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,5,5,10.0,19.6,19_Q3
+84212,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,78,187,0.7,11.6,19_Q3
+84213,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,114,82,9.4,25.0,19_Q3
+84214,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,3,6,3.5,12.1,19_Q3
+84215,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,435,532,5.6,17.7,19_Q3
+84216,2019,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,11,7,12.7,40.4,19_Q3
+86126,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,7,61,1.0,5.0,19_Q4
+86128,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,9,48,2.3,5.8,19_Q4
+86129,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Cone Biopsy,3,9,4.3,7.2,19_Q4
+86130,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,3,26,3.8,6.1,19_Q4
+86131,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,13,4.3,7.3,19_Q4
+86132,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,37,27,2.0,12.0,19_Q4
+86134,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,16,1.1,11.5,19_Q4
+86135,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,5,0.4,0.9,19_Q4
+86136,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,9,3.0,9.9,19_Q4
+86137,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,9,1.0,5.6,19_Q4
+86138,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,10,28,1.6,5.9,19_Q4
+86139,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,24,16,7.6,16.9,19_Q4
+86140,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,156,288,3.9,14.0,19_Q4
+86141,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,40,39,4.3,24.9,19_Q4
+86142,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,19,20,3.9,13.0,19_Q4
+86143,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,8,16,2.1,9.6,19_Q4
+86144,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,3,9,0.1,1.8,19_Q4
+86145,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,8,20,1.8,7.6,19_Q4
+86146,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,56,82,5.1,16.0,19_Q4
+86147,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,24,9,9.0,15.2,19_Q4
+86148,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,16,6,16.7,48.4,19_Q4
+86149,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,3,8,7.0,13.8,19_Q4
+86150,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,101,108,7.6,13.9,19_Q4
+86151,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,100,46,5.1,10.1,19_Q4
+86152,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,23,22,8.9,16.1,19_Q4
+86153,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,23,16,14.1,57.9,19_Q4
+86154,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,209,134,8.9,20.1,19_Q4
+86155,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,18,11,10.7,29.0,19_Q4
+86156,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,196,112,6.9,34.7,19_Q4
+86157,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,115,106,6.1,14.6,19_Q4
+86158,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,40,29,18.0,22.0,19_Q4
+86159,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,51,33,4.3,16.7,19_Q4
+86160,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,171,37,5.6,90.6,19_Q4
+86161,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,15,9,25.3,48.1,19_Q4
+86162,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,133,40,9.5,18.0,19_Q4
+86163,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,38,14,17.6,42.3,19_Q4
+86164,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,12,43,1.0,7.9,19_Q4
+86165,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,9,0.7,0.9,19_Q4
+86166,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,52,107,1.9,10.6,19_Q4
+86168,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,77,169,0.7,10.9,19_Q4
+86169,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,97,72,13.1,31.0,19_Q4
+86170,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,14,10,14.9,24.0,19_Q4
+86171,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,402,500,5.4,15.3,19_Q4
+86172,2019,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,10,7,8.4,35.9,19_Q4
+87907,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,13,55,1.0,4.6,20_Q1
+87909,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,9,46,1.7,2.5,20_Q1
+87910,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,3,6,3.5,8.2,20_Q1
+87911,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,5,14,3.0,6.0,20_Q1
+87912,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,35,15,0.9,17.9,20_Q1
+87914,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,3,10,0.9,3.2,20_Q1
+87915,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,6,16,2.0,10.8,20_Q1
+87916,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,33,10,16.0,28.3,20_Q1
+87917,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,142,116,12.5,29.4,20_Q1
+87918,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,36,40,1.5,24.6,20_Q1
+87919,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,26,16,6.4,18.1,20_Q1
+87920,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,9,10,0.6,13.7,20_Q1
+87921,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,10,18,0.8,7.3,20_Q1
+87922,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,64,39,7.6,20.3,20_Q1
+87923,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,21,12,15.7,33.9,20_Q1
+87924,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,7,5,0.6,1.0,20_Q1
+87925,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,3,8,1.0,2.5,20_Q1
+87926,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,99,47,17.7,25.3,20_Q1
+87927,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,68,37,18.1,27.5,20_Q1
+87928,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,31,12,15.9,23.3,20_Q1
+87929,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,243,66,15.9,36.5,20_Q1
+87930,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,14,5,20.6,27.9,20_Q1
+87931,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,215,75,14.9,35.8,20_Q1
+87932,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,125,61,4.1,19.4,20_Q1
+87933,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,50,13,17.0,31.3,20_Q1
+87934,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,60,8,7.3,24.1,20_Q1
+87935,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,184,29,12.3,47.1,20_Q1
+87936,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,137,23,16.0,28.4,20_Q1
+87937,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,31,8,23.1,34.4,20_Q1
+87938,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,19,20,0.7,12.4,20_Q1
+87939,2020,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,3,14,0.4,2.6,20_Q1
+87940,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,39,75,2.0,17.0,20_Q1
+87942,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,3,5,0.6,2.0,20_Q1
+87943,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,73,164,0.6,14.1,20_Q1
+87944,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,115,35,14.9,31.4,20_Q1
+87945,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,387,437,10.4,24.4,20_Q1
+87946,2020,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,3,6,15.8,28.2,20_Q1
+89759,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,12,44,1.2,4.3,20_Q2
+89761,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,11,40,1.9,3.4,20_Q2
+89762,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,3,5,1.1,1.4,20_Q2
+89763,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,3,24,2.1,2.6,20_Q2
+89764,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,3,12,1.4,1.7,20_Q2
+89765,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,39,25,1.4,36.8,20_Q2
+89767,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,8,17,1.0,9.2,20_Q2
+89768,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,6,4.3,16.0,20_Q2
+89769,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,5,6,0.1,2.5,20_Q2
+89770,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,6,6.8,12.2,20_Q2
+89771,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,11,26,1.6,4.8,20_Q2
+89772,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,17,23,12.6,29.1,20_Q2
+89773,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,230,239,7.1,23.2,20_Q2
+89774,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,43,48,1.9,22.1,20_Q2
+89775,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,25,29,2.4,22.7,20_Q2
+89776,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,8,17,1.1,12.9,20_Q2
+89777,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,8,19,0.3,9.0,20_Q2
+89778,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,7,23,1.9,11.3,20_Q2
+89779,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,37,66,10.6,27.4,20_Q2
+89780,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,18,14,19.6,33.6,20_Q2
+89781,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,19,8,2.7,23.3,20_Q2
+89782,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,7,6,4.8,11.6,20_Q2
+89783,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,6,15,1.9,4.9,20_Q2
+89784,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,107,93,12.0,34.9,20_Q2
+89785,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,43,33,22.6,32.8,20_Q2
+89786,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Nerve Surgery,3,5,2.1,36.5,20_Q2
+89787,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,23,25,7.9,30.5,20_Q2
+89788,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,19,15,17.3,49.3,20_Q2
+89789,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,208,162,19.1,37.7,20_Q2
+89790,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,12,5,37.3,54.8,20_Q2
+89791,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,205,144,14.2,45.8,20_Q2
+89792,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,128,113,9.3,29.1,20_Q2
+89793,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Scope of Chest,3,5,8.3,39.7,20_Q2
+89794,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,66,31,11.0,28.1,20_Q2
+89795,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,69,32,23.6,43.7,20_Q2
+89796,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,184,49,25.4,68.6,20_Q2
+89797,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,8,10,18.0,47.1,20_Q2
+89798,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,86,49,25.0,32.2,20_Q2
+89799,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,29,21,23.1,41.7,20_Q2
+89800,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,20,50,1.7,10.4,20_Q2
+89801,2020,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,5,16,0.4,3.4,20_Q2
+89802,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,35,95,2.0,20.0,20_Q2
+89804,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,70,193,0.6,12.7,20_Q2
+89805,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,87,93,13.0,32.7,20_Q2
+89806,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,9,8,23.9,42.5,20_Q2
+89807,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,3,6,3.4,15.4,20_Q2
+89808,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,366,490,4.3,21.1,20_Q2
+89809,2020,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,5,6,5.4,18.6,20_Q2
+91775,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,8,50,2.9,5.7,20_Q3
+91777,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,13,51,2.1,4.4,20_Q3
+91778,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,3,8,1.5,3.6,20_Q3
+91779,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,9,19,2.6,3.7,20_Q3
+91780,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,3,15,1.3,3.4,20_Q3
+91781,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,6,1.8,3.4,20_Q3
+91782,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,29,36,3.5,34.4,20_Q3
+91784,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,8,25,1.4,4.3,20_Q3
+91785,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,7,2.1,6.3,20_Q3
+91786,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,5,25,1.4,4.8,20_Q3
+91787,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,14,15,6.9,28.2,20_Q3
+91788,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,280,219,9.3,16.0,20_Q3
+91789,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,22,52,3.4,11.0,20_Q3
+91790,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,14,32,5.6,19.1,20_Q3
+91791,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,9,23,1.0,4.5,20_Q3
+91792,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,5,17,0.4,16.6,20_Q3
+91793,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,6,20,1.1,7.1,20_Q3
+91794,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,33,72,3.0,18.5,20_Q3
+91795,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,20,13,12.1,22.9,20_Q3
+91796,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,18,10,7.1,16.5,20_Q3
+91797,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,8,2.1,11.9,20_Q3
+91798,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,3,12,2.0,12.8,20_Q3
+91799,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,114,99,7.9,17.6,20_Q3
+91800,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,30,31,6.0,29.3,20_Q3
+91801,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,28,21,5.6,27.9,20_Q3
+91802,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,20,11,3.1,46.1,20_Q3
+91803,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,197,150,10.0,36.2,20_Q3
+91804,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,17,5,11.1,27.9,20_Q3
+91805,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,183,155,8.0,39.3,20_Q3
+91806,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,133,84,10.6,36.5,20_Q3
+91807,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,53,35,16.0,43.0,20_Q3
+91808,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,56,41,12.4,51.3,20_Q3
+91809,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,204,43,18.9,111.1,20_Q3
+91810,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,67,46,24.6,44.8,20_Q3
+91811,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,37,13,10.0,35.3,20_Q3
+91812,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,15,41,1.1,6.9,20_Q3
+91813,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,6,13,0.6,7.1,20_Q3
+91814,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,51,103,2.0,9.3,20_Q3
+91816,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,90,215,0.9,7.7,20_Q3
+91817,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,100,76,9.1,36.6,20_Q3
+91818,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,9,13,7.9,11.2,20_Q3
+91819,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,8,7,2.9,6.6,20_Q3
+91820,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,334,499,4.5,14.9,20_Q3
+91821,2020,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,7,6,5.0,24.1,20_Q3
+93788,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,6,50,1.0,5.0,20_Q4
+93790,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,3,49,2.7,4.7,20_Q4
+93791,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,3,29,2.3,4.6,20_Q4
+93792,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,3,8,2.4,2.9,20_Q4
+93793,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,32,29,2.1,15.9,20_Q4
+93795,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,9,14,0.9,5.8,20_Q4
+93796,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,8,2.0,9.7,20_Q4
+93797,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,5,5,0.6,13.3,20_Q4
+93798,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,7,3.0,10.5,20_Q4
+93799,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,7,26,1.5,4.8,20_Q4
+93800,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,18,11,2.4,13.3,20_Q4
+93801,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,360,253,12.0,18.0,20_Q4
+93802,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,24,39,4.0,14.6,20_Q4
+93803,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Gynecomastia,7,6,57.5,66.0,20_Q4
+93804,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,21,27,5.1,16.4,20_Q4
+93805,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,11,22,1.4,8.7,20_Q4
+93806,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,7,20,0.4,8.1,20_Q4
+93807,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,16,18,1.7,4.7,20_Q4
+93808,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,32,80,3.3,7.0,20_Q4
+93809,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,22,9,9.6,15.7,20_Q4
+93810,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,19,16,5.1,11.2,20_Q4
+93811,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,7,14,2.9,11.3,20_Q4
+93812,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,112,114,9.9,22.3,20_Q4
+93813,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,16,27,13.1,28.6,20_Q4
+93814,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,23,26,7.7,25.4,20_Q4
+93815,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,29,5,4.7,17.4,20_Q4
+93816,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,201,161,13.1,32.6,20_Q4
+93817,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,15,8,12.0,31.2,20_Q4
+93818,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,177,139,12.0,38.1,20_Q4
+93819,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,116,118,9.8,22.9,20_Q4
+93820,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Rectal Surgery,3,6,8.1,18.6,20_Q4
+93821,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Sinus Surgery,3,6,8.1,15.5,20_Q4
+93822,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,43,33,13.0,24.1,20_Q4
+93823,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,60,47,15.3,48.3,20_Q4
+93824,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,200,49,36.6,96.9,20_Q4
+93825,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,14,7,2.9,30.2,20_Q4
+93826,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,45,39,17.9,48.8,20_Q4
+93827,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,31,24,16.7,31.0,20_Q4
+93828,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,8,50,1.9,5.7,20_Q4
+93829,2020,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,8,17,0.3,10.6,20_Q4
+93830,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,36,129,2.6,9.5,20_Q4
+93832,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,3,7,3.1,9.3,20_Q4
+93833,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,88,222,0.8,11.0,20_Q4
+93834,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,91,76,11.6,26.8,20_Q4
+93835,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,3,9,9.4,22.3,20_Q4
+93836,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,3,11,5.9,8.7,20_Q4
+93837,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,363,495,4.9,12.7,20_Q4
+93838,2020,Q4,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,12,9,4.0,23.7,20_Q4
+94673,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,9,1.3,3.0,20_Q4
+94694,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Cone Biopsy,0,5,4.3,5.4,20_Q4
+94698,2020,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,0,10,0.7,5.1,20_Q4
+94718,2020,Q3,Provincial Health Services Authority,B.C. Cancer Agency,D&C and Related Surgery,0,5,3.6,4.9,20_Q3
+94725,2020,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Appendectomy,0,6,7.9,19.4,20_Q3
+94733,2020,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,0,6,1.6,2.3,20_Q2
+94751,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,0,7,5.3,8.5,20_Q1
+94762,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,6,1.5,2.0,20_Q1
+94767,2020,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,0,11,1.7,2.1,20_Q1
+94773,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,5,1.4,1.9,19_Q4
+94791,2019,Q4,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,0,7,0.3,2.8,19_Q4
+94803,2019,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,0,24,0.4,11.2,19_Q3
+94806,2019,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,0,7,0.6,2.6,19_Q4
+94814,2019,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,9,1.3,5.7,19_Q3
+94833,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Thyroidectomy,0,5,6.9,11.3,19_Q2
+94839,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Rectal Surgery,0,5,5.3,9.2,19_Q2
+94841,2019,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,11,2.3,4.4,19_Q2
+94847,2019,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,0,5,8.9,14.3,19_Q2
+94901,2018,Q4,Provincial Health Services Authority,B.C. Cancer Agency,Cone Biopsy,0,6,2.8,7.4,18_Q4
+94917,2018,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,0,7,0.9,2.5,18_Q3
+94929,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Scope of Chest,0,5,0.3,6.4,18_Q3
+94937,2018,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,0,6,1.7,8.6,18_Q3
+97476,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,16,57,1.0,4.9,21_Q1
+97478,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,9,46,2.1,5.6,21_Q1
+97479,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Examination Under Anaesthetic,3,6,2.3,4.1,21_Q1
+97480,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,10,13,3.3,3.8,21_Q1
+97481,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,35,42,2.6,14.7,21_Q1
+97483,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,8,10,1.4,39.6,21_Q1
+97484,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,3,8,8.1,11.2,21_Q1
+97485,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,7,0.1,1.7,21_Q1
+97486,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,7,4.4,7.6,21_Q1
+97487,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,8,38,1.1,4.6,21_Q1
+97488,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,16,19,6.7,19.3,21_Q1
+97489,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,473,239,16.3,24.0,21_Q1
+97490,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,21,50,3.2,13.1,21_Q1
+97491,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,17,30,3.8,15.2,21_Q1
+97492,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,7,24,2.1,15.7,21_Q1
+97493,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,15,18,0.8,5.6,21_Q1
+97494,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,22,16,2.4,18.2,21_Q1
+97495,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,53,74,4.2,11.4,21_Q1
+97496,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,28,15,7.4,32.4,21_Q1
+97497,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,16,12,6.3,51.3,21_Q1
+97498,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,5,0.7,1.2,21_Q1
+97499,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,3,19,4.1,7.5,21_Q1
+97500,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,109,98,9.9,19.6,21_Q1
+97501,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,14,28,4.2,11.0,21_Q1
+97502,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,21,22,10.7,30.7,21_Q1
+97503,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,30,16,5.2,45.6,21_Q1
+97504,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,224,173,12.6,24.8,21_Q1
+97505,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,15,5,18.3,25.4,21_Q1
+97506,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,188,117,9.3,31.9,21_Q1
+97507,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,105,117,7.7,25.2,21_Q1
+97508,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Scope of Chest,3,5,0.9,14.8,21_Q1
+97509,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,52,36,9.0,16.7,21_Q1
+97510,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,56,40,11.2,46.8,21_Q1
+97511,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,190,51,31.4,103.9,21_Q1
+97512,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,14,10,7.5,48.1,21_Q1
+97513,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,31,26,12.9,47.6,21_Q1
+97514,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,29,21,10.4,43.0,21_Q1
+97515,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,12,38,1.4,6.3,21_Q1
+97516,2021,Q1,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,6,15,0.7,18.2,21_Q1
+97517,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,46,117,1.9,9.4,21_Q1
+97519,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,6,7,4.0,16.1,21_Q1
+97520,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,87,225,0.9,16.5,21_Q1
+97521,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,109,79,9.9,22.4,21_Q1
+97522,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,5,5,3.4,9.9,21_Q1
+97523,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,447,546,4.9,10.4,21_Q1
+97524,2021,Q1,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,7,16,4.0,14.0,21_Q1
+99451,2021,Q2,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,51,128,1.0,3.2,21_Q2
+99453,2021,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,6,25,2.6,4.7,21_Q2
+99454,2021,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Mastectomy,3,5,1.4,2.3,21_Q2
+99455,2021,Q2,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,12,24,3.3,5.0,21_Q2
+99456,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,39,44,2.5,17.1,21_Q2
+99458,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,5,19,2.3,11.4,21_Q2
+99459,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,3,5,0.9,1.1,21_Q2
+99460,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Colostomy/Ileostomy,3,6,4.4,5.2,21_Q2
+99461,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,12,30,1.5,10.5,21_Q2
+99462,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,13,16,5.9,26.0,21_Q2
+99463,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,477,259,19.4,24.6,21_Q2
+99464,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,36,45,2.4,13.5,21_Q2
+99465,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,21,24,5.1,16.7,21_Q2
+99466,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,10,16,1.6,5.6,21_Q2
+99467,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,20,23,0.3,15.2,21_Q2
+99468,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,8,37,3.4,13.5,21_Q2
+99469,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,28,74,5.2,13.2,21_Q2
+99470,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,22,20,9.4,48.4,21_Q2
+99471,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,15,12,3.4,12.9,21_Q2
+99472,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparoscopy,3,7,0.9,3.2,21_Q2
+99473,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Laparotomy,3,5,1.3,9.0,21_Q2
+99474,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,13,7,2.9,14.3,21_Q2
+99475,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,91,107,7.9,29.3,21_Q2
+99476,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,17,18,2.6,10.5,21_Q2
+99477,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Nasal Surgery,12,6,8.1,24.9,21_Q2
+99478,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,7,29,8.3,32.6,21_Q2
+99479,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,33,14,4.6,29.9,21_Q2
+99480,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,177,169,11.6,22.0,21_Q2
+99481,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,22,7,3.0,25.7,21_Q2
+99482,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,201,121,10.1,29.7,21_Q2
+99483,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,105,107,4.2,41.4,21_Q2
+99484,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Scope of Chest,3,10,0.4,29.3,21_Q2
+99485,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Sinus Surgery,3,5,3.4,19.6,21_Q2
+99486,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,59,30,14.0,29.3,21_Q2
+99487,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,50,59,9.7,27.8,21_Q2
+99488,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,198,50,30.6,91.0,21_Q2
+99489,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,15,11,6.1,18.4,21_Q2
+99490,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,29,21,13.9,36.7,21_Q2
+99491,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,27,19,21.1,37.7,21_Q2
+99492,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,12,38,1.1,5.6,21_Q2
+99493,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,10,21,0.4,6.3,21_Q2
+99494,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,59,106,2.5,10.1,21_Q2
+99496,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Cyst/Ganglion Removal,6,7,4.3,12.6,21_Q2
+99497,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,94,216,0.9,12.6,21_Q2
+99498,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Examination Under Anaesthetic,3,5,2.6,4.7,21_Q2
+99499,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,82,107,10.7,18.6,21_Q2
+99500,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,15,16,9.6,15.4,21_Q2
+99501,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,453,540,5.7,14.1,21_Q2
+99502,2021,Q2,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,6,10,7.6,24.2,21_Q2
+101399,2021,Q3,Provincial Health Services Authority,B.C. Cancer Agency,All Other Procedures,71,123,0.9,2.7,21_Q3
+101401,2021,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Breast Biopsy,3,30,1.7,2.9,21_Q3
+101402,2021,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Cone Biopsy,3,5,2.3,7.9,21_Q3
+101403,2021,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Mastectomy,3,7,1.7,2.4,21_Q3
+101404,2021,Q3,Provincial Health Services Authority,B.C. Cancer Agency,Skin Tumour Removal,14,28,1.6,3.5,21_Q3
+101405,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,All Other Procedures,29,47,3.9,12.2,21_Q3
+101407,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Biopsy in OR,7,27,0.9,2.5,21_Q3
+101408,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,CSF Drainage,10,5,0.3,0.8,21_Q3
+101409,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cholecystectomy,3,6,0.8,4.6,21_Q3
+101410,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cranial Surgery,6,26,2.9,8.4,21_Q3
+101411,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Cyst/Ganglion Removal,12,16,3.5,38.4,21_Q3
+101412,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Dental Surgery,370,264,18.5,28.6,21_Q3
+101413,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Examination Under Anaesthetic,34,50,3.8,12.8,21_Q3
+101414,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Excision Lesion/Tumour,19,26,3.2,16.9,21_Q3
+101415,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Foreign Body Removal Surgery,15,15,1.1,10.8,21_Q3
+101416,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Fracture Repair,15,18,11.2,31.7,21_Q3
+101417,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Gastrostomy/Jejunostomy,18,25,0.9,2.8,21_Q3
+101418,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Hernia Repair - Abdominal,25,50,3.6,20.9,21_Q3
+101419,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - ACL Repair,27,13,11.9,23.0,21_Q3
+101420,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee - Meniscectomy,3,7,8.1,26.5,21_Q3
+101421,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Knee Arthroscopy,22,8,6.1,29.9,21_Q3
+101422,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Lens & Vitreous (non-cataract) Surgery,7,21,4.4,11.0,21_Q3
+101423,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Male Reproductive Surgery,118,59,6.9,25.2,21_Q3
+101424,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Myringotomy,42,23,4.0,9.5,21_Q3
+101425,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Nerve Surgery,3,8,1.1,15.0,21_Q3
+101426,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Oral Cavity & Pharynx Surgery,17,14,4.5,12.8,21_Q3
+101427,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Ear Surgery,33,10,26.2,96.9,21_Q3
+101428,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Eye Surgery,194,112,12.8,26.1,21_Q3
+101429,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Joint Reconstruction,25,10,31.8,47.3,21_Q3
+101430,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Orthopaedic Surgery,211,106,9.7,37.5,21_Q3
+101431,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Other Urology Surgery,155,81,4.1,25.0,21_Q3
+101432,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Scope of Chest,3,5,1.0,4.5,21_Q3
+101433,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Surgery,61,28,18.0,21.0,21_Q3
+101434,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Skin Tumour Removal,48,45,5.4,32.2,21_Q3
+101435,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Spinal/Back Surgery,218,38,7.6,68.4,21_Q3
+101436,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tendon Surgery,11,10,8.3,21.4,21_Q3
+101437,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tonsillectomy/Adenoidectomy,44,15,6.6,17.1,21_Q3
+101438,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Tympanoplasty,32,10,10.4,49.3,21_Q3
+101439,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Vascular Surgery - Other,14,47,1.3,6.3,21_Q3
+101440,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Wound/Laceration Care,11,19,0.6,14.4,21_Q3
+101441,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,All Other Procedures,49,116,4.0,12.2,21_Q3
+101443,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,D&C and Related Surgery,91,211,0.9,11.4,21_Q3
+101444,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Fallopian Tube/Ovarian Surgery,79,74,8.6,26.5,21_Q3
+101445,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Laparoscopy,15,5,11.6,16.2,21_Q3
+101446,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Skin Tumour Removal,6,6,5.8,11.1,21_Q3
+101447,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Uterine Surgery,403,554,5.3,15.4,21_Q3
+101448,2021,Q3,Provincial Health Services Authority,B.C. Women'S Hospital,Vaginal Repair,6,5,7.9,10.3,21_Q3
+102179,2021,Q3,Provincial Health Services Authority,B.C. Children'S Hospital,Bowel Resection,0,7,2.6,6.3,21_Q3
+102192,2021,Q2,Provincial Health Services Authority,B.C. Children'S Hospital,Appendectomy,0,7,8.9,11.9,21_Q2
+102205,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Vaginal Repair,0,6,3.6,5.6,21_Q1
+102224,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Excision Lesion/Tumour,0,19,2.1,3.3,21_Q1
+102231,2021,Q1,Provincial Health Services Authority,B.C. Cancer Agency,Biopsy in OR,0,5,1.6,3.5,21_Q1

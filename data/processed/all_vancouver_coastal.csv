@@ -1,0 +1,16 @@
+,year,quarter,health_authority,hospital,procedure,waiting,completed,wait_time_50,wait_time_90,Y_Q
+72311,2018,Q1,Vancouver Coastal,All Facilities,All Procedures,21930,16529,6.3,31.4,18_Q1
+74288,2018,Q2,Vancouver Coastal,All Facilities,All Procedures,22721,14388,6.1,30.0,18_Q2
+76266,2018,Q3,Vancouver Coastal,All Facilities,All Procedures,22660,15505,6.9,31.4,18_Q3
+78268,2018,Q4,Vancouver Coastal,All Facilities,All Procedures,22643,16030,6.9,31.0,18_Q4
+80288,2019,Q1,Vancouver Coastal,All Facilities,All Procedures,22546,17031,6.1,30.0,19_Q1
+82252,2019,Q2,Vancouver Coastal,All Facilities,All Procedures,23547,15393,6.6,28.7,19_Q2
+84218,2019,Q3,Vancouver Coastal,All Facilities,All Procedures,24111,15757,6.3,29.6,19_Q3
+86174,2019,Q4,Vancouver Coastal,All Facilities,All Procedures,24867,14706,6.6,29.9,19_Q4
+87948,2020,Q1,Vancouver Coastal,All Facilities,All Procedures,24341,8795,6.7,33.9,20_Q1
+89811,2020,Q2,Vancouver Coastal,All Facilities,All Procedures,23222,15784,6.7,40.0,20_Q2
+91823,2020,Q3,Vancouver Coastal,All Facilities,All Procedures,23238,16570,5.1,40.6,20_Q3
+93841,2020,Q4,Vancouver Coastal,All Facilities,All Procedures,21191,17982,5.3,33.4,20_Q4
+97526,2021,Q1,Vancouver Coastal,All Facilities,All Procedures,21815,16861,5.1,30.0,21_Q1
+99504,2021,Q2,Vancouver Coastal,All Facilities,All Procedures,21387,15426,5.6,29.0,21_Q2
+101450,2021,Q3,Vancouver Coastal,All Facilities,All Procedures,21266,15037,5.3,29.0,21_Q3

@@ -1,0 +1,16 @@
+,year,quarter,health_authority,hospital,procedure,waiting,completed,wait_time_50,wait_time_90,Y_Q
+72691,2018,Q1,Vancouver Island,All Facilities,All Procedures,17731,13236,8.3,38.0,18_Q1
+74656,2018,Q2,Vancouver Island,All Facilities,All Procedures,17363,11221,8.6,34.9,18_Q2
+76628,2018,Q3,Vancouver Island,All Facilities,All Procedures,16802,12701,7.6,35.4,18_Q3
+78636,2018,Q4,Vancouver Island,All Facilities,All Procedures,17101,12532,7.6,33.1,18_Q4
+80662,2019,Q1,Vancouver Island,All Facilities,All Procedures,17526,13158,7.4,30.0,19_Q1
+82612,2019,Q2,Vancouver Island,All Facilities,All Procedures,18258,11690,7.9,31.2,19_Q2
+84592,2019,Q3,Vancouver Island,All Facilities,All Procedures,19159,12808,7.6,33.0,19_Q3
+86533,2019,Q4,Vancouver Island,All Facilities,All Procedures,19734,11560,8.1,36.0,19_Q4
+88253,2020,Q1,Vancouver Island,All Facilities,All Procedures,19842,7840,11.7,36.7,20_Q1
+90176,2020,Q2,Vancouver Island,All Facilities,All Procedures,18557,12829,8.3,42.7,20_Q2
+92194,2020,Q3,Vancouver Island,All Facilities,All Procedures,16921,13710,6.1,44.7,20_Q3
+94212,2020,Q4,Vancouver Island,All Facilities,All Procedures,16303,14628,6.0,33.8,20_Q4
+97896,2021,Q1,Vancouver Island,All Facilities,All Procedures,15961,14634,5.9,29.1,21_Q1
+99858,2021,Q2,Vancouver Island,All Facilities,All Procedures,15662,12828,6.0,27.3,21_Q2
+101809,2021,Q3,Vancouver Island,All Facilities,All Procedures,16490,12776,5.4,27.4,21_Q3
