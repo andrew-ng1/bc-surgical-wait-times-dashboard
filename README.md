@@ -3,7 +3,7 @@
 This project analyzes 12 years (2009–2021) of surgical wait time data in British Columbia and presents it through an **interactive dashboard** built with a **Plotly Dash web app**, providing insights for healthcare administrators and the public.  
 The dashboard highlights waitlist sizes, surgery completions, and wait time distributions across procedures, hospitals, and health authorities.
 
-This project was originally developed as part of the UBC Master of Data Science program (team project, 2021).
+This project was originally developed as part of the UBC Master of Data Science program (team project, March 2022).
 
 Originally deployed on Heroku (deployment discontinued); see screenshots below for the live dashboard interface.
 #### Deployed dash app links:
