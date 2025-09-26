@@ -6,6 +6,8 @@ The dashboard highlights waitlist sizes, surgery completions, and wait time dist
 This project was originally developed as part of the UBC Master of Data Science program (team project, 2021).
 
 Originally deployed on Heroku (deployment discontinued); see screenshots below for the live dashboard interface.
+#### Deployed dash app links:
+[Link to the deployed app](https://bc-surgical-wait-times.herokuapp.com/)
 
 ---
 
